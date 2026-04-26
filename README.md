@@ -1,2 +1,2 @@
-# AI_BC_HW1
+# AI_BC_HW
 Home work repo of AI Engineering Buildcamp
