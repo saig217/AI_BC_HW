@@ -8,5 +8,7 @@ dependencies = [
     "gitsource>=0.0.4",
     "markitdown[pdf]>=0.1.5",
     "minsearch>=0.0.10",
+    "openai>=2.32.0",
+    "python-dotenv>=1.2.2",
     "requests>=2.33.1",
 ]
